@@ -22,5 +22,3 @@ if(total_time>total_walk_time):
 else:
     print("Taking bus is quicker than running !!")
 
-
-
